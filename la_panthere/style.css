@@ -292,6 +292,10 @@ a:hover {
     z-index: 1;
 }
 
+.col-sm-4 {
+    line-height: 30px;
+}
+
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
@@ -677,7 +681,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .font-size__20 {
