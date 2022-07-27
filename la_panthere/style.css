@@ -528,6 +528,11 @@ button {
     transition: all .3s ease-in-out;
 }
 
+.img-responsive {
+    height: auto;
+    width: auto;
+}
+
 .scrollToTop span {
     margin-top: 6px;
 }
