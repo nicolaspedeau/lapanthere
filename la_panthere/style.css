@@ -806,6 +806,11 @@ h4 {
     background-color: #F4A681;
 }
 
+.column {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
 .tc-white {
     color: #F4A681!important;
 }
